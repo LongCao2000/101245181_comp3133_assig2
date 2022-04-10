@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullName": "Viet Long Cao",
+      "email": "longcao2000@gmail.com",
+      "password": "khongbiet123",
+      "phoneNumber": 4377781632,
+      "id": 1
+    },
+    {
+      "fullName": "James Kim",
+      "email": "jameskim19@gmail.com",
+      "password": "jameskim19",
+      "phoneNumber": 3231432467,
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
